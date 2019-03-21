@@ -1,4 +1,4 @@
-i# domonode
+# domonode
 
 This project is a home automation framework software.
 __It is under active (private) development__ d'ont expect that much from here.
@@ -14,17 +14,24 @@ These screenshots have been taken from the mobile version of the web interface, 
 This is the version of domonode currently running in my house.
 
 A list of active plugins in my domonode instance:
+
 ![list of plugins](screenshots/screenshot_plugins.png)
 
+
 A list of intermediates entities exposed by the `jeedom` plugin:
+
 ![jeedom plugin equipments](screenshots/screenshot_jeedom_equipments.png)
 
+
 Some values exposed by the APC UPS plugin:
+
 ![apc ups](screenshots/screenshot_apc_ups.png)
 
 The details of an entity of type `value`, here the CPU load of the server:
+
 ![details of a value](screenshots/screenshot_value_cpu_load.png)
 
 The details of an entity of type `script`,trigerred when the filesystem space `value` changes, and which throws a pushbullet notification when there's low disk space on the server's filesystem.
+
 ![script code editor](screenshots/screenshot_script_code.png)
 
