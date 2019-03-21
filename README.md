@@ -1,0 +1,23 @@
+i# domonode
+
+This project is a home automation framework software.
+__It is under active (private) development__ d'ont expect that much from here.
+
+### just a placeholder ; no code available ... yet
+
+The state of this personal project is currently still under heavy development. The code isn't clean yet and lot's of refactoring must be done.
+Therefore, even if its target is to be published someday on github, there is nothing to show here for the moment.
+
+### a few screenshots of the web interface:
+
+![apc ups](screenshots/screenshot_apc_ups.png)
+
+![jeedom plugin equipments](screenshots/screenshot_jeedom_equipments.png)
+
+![list of plugins](screenshots/screenshot_plugins.png)
+
+![script code editor](screenshots/screenshot_script_code.png)
+
+![details of a value](screenshots/screenshot_value_cpu_load.png)
+
+
