@@ -17,12 +17,6 @@ A list of active plugins in my domonode instance:
 
 ![list of plugins](screenshots/screenshot_plugins.png)
 
-
-A list of intermediates entities exposed by the `jeedom` plugin:
-
-![jeedom plugin equipments](screenshots/screenshot_jeedom_equipments.png)
-
-
 Some values exposed by the APC UPS plugin:
 
 ![apc ups](screenshots/screenshot_apc_ups.png)
